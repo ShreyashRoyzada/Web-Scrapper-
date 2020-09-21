@@ -1,0 +1,4 @@
+#1 While pushing code to the remote repo I got this error
+ $ git push origin master
+fatal: unable to access 'https://github.com/ShreyashRoyzada/Python-Practice.git/': Could not resolve host: github.com
+
